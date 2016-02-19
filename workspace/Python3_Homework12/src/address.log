@@ -1,0 +1,6 @@
+2015-10-24 00:30:32,243 - INFO - start_logging - Starting up the property address program
+2015-10-24 00:30:32,248 - INFO - __init__ - Creating a new address
+2015-10-24 00:30:32,249 - INFO - __init__ - Creating a new address
+2015-10-24 00:30:32,251 - ERROR - state - STATE exception
+2015-10-24 00:30:32,252 - INFO - __init__ - Creating a new address
+2015-10-24 00:30:32,253 - ERROR - zip_code - ZIPCODE exception

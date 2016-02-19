@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DatabaseHint&apos; to &apos;DatabaseHints&apos;" description="Rename resource &apos;DatabaseHint&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/DatabaseHint" name="DatabaseHints" stamp="1441052320762" updateReferences="true"/>
+</session>

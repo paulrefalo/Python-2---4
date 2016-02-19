@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;src&apos;&#x0D;&#x0A;- Original project: &apos;Python4_Lesson12&apos;&#x0D;&#x0A;- Destination element: &apos;src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     control.py&#x0D;&#x0A;     output.py&#x0D;&#x0A;     thread.py&#x0D;&#x0A;     worker.py&#x0D;&#x0A;     process.py" description="Copy files" element1="src/control.py" element2="src/output.py" element3="src/thread.py" element4="src/worker.py" element5="src/process.py" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1447654026411" target="/Python4_Homework12/src" units="0" version="1.0"/>
+</session>

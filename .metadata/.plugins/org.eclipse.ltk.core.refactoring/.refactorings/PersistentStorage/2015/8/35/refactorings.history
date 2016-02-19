@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;PersistentStorage/src/example.py&apos; to &apos;exampl1e.py&apos;" description="Rename resource &apos;example.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/example.py" name="exampl1e.py" stamp="1440393445939" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;PersistentStorage/src/exampl1e.py&apos; to &apos;example.py&apos;" description="Rename resource &apos;exampl1e.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/exampl1e.py" name="example.py" stamp="1440395021276" updateReferences="true"/>
+</session>

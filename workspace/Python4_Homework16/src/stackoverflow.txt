@@ -1,0 +1,37 @@
+Okay, that was humbling.  Most of the questions are about Pandas or Plotting or
+something else that I don't know anything about.  Easy ones are tackled quickly by people
+who are faster and better than me.  Anyway, I found this one regarding list comprehension and
+added my two cents:
+
+The Question:
+rying to figure out how I might be able to use list comprehension for the following:
+
+I have a dictionary:
+
+dict = {}
+dict ['one'] = {"tag":"A"}
+dict ['two'] = {"tag":"B"}
+dict ['three'] = {"tag":"C"}
+and I would like to create a list (let's call it "list") which is populated by each of the "tag" values of each key, i.e.
+
+['A', 'B', 'C']
+is there an efficient way to do this using list comprehension? i was thinking something like:
+
+list = [x for x in dict[x]["tag"]]
+but obviously this doesn't quite work. any help appreciated!
+
+My answer:
+This is an extra step but gets the desired output and avoids using reserved words:
+
+d = {}
+d['one'] = {"tag":"A"}
+d['two'] = {"tag":"B"}
+d['three'] = {"tag":"C"}
+new_list = []
+for k in ('one', 'two', 'three'):
+    new_list += [x for x in d[k]["tag"]]
+
+print(new_list)
+
+http://stackoverflow.com/questions/33791560/list-comprehension-using-dictionary-entries/33791771#33791771
+

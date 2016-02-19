@@ -1,0 +1,47 @@
+2015-10-24 00:49:48,249 - root - INFO - Starting up the property address program
+2015-10-24 00:49:48,254 - root - INFO - Creating a new address
+2015-10-24 00:49:48,255 - root - INFO - Creating a new address
+2015-10-24 00:49:48,257 - root - ERROR - STATE exception
+2015-10-24 00:49:48,258 - root - INFO - Creating a new address
+2015-10-24 00:49:48,259 - root - ERROR - ZIPCODE exception
+2015-10-27 13:58:43,975 - root - INFO - Starting up the property address program
+2015-10-27 13:58:43,979 - root - INFO - Creating a new address
+2015-10-27 13:58:43,979 - root - INFO - Creating a new address
+2015-10-27 13:58:43,980 - root - ERROR - STATE exception
+2015-10-27 13:58:43,981 - root - INFO - Creating a new address
+2015-10-27 13:58:43,981 - root - ERROR - ZIPCODE exception
+2015-10-27 14:06:29,440 - root - INFO - Starting up the property address program
+2015-10-27 14:06:29,443 - root - INFO - Creating a new address
+2015-10-27 14:06:29,444 - root - INFO - Creating a new address
+2015-10-27 14:06:29,444 - root - ERROR - STATE exception
+2015-10-27 14:06:29,445 - root - INFO - Creating a new address
+2015-10-27 14:06:29,446 - root - ERROR - ZIPCODE exception
+2015-10-27 14:08:19,799 - root - INFO - Starting up the property address program
+2015-10-27 14:08:19,804 - root - INFO - Creating a new address
+2015-10-27 14:08:19,806 - root - INFO - Creating a new address
+2015-10-27 14:08:19,806 - root - ERROR - STATE exception
+2015-10-27 14:08:19,807 - root - INFO - Creating a new address
+2015-10-27 14:08:19,808 - root - ERROR - ZIPCODE exception
+2015-10-27 14:14:38,252 - root - INFO - Starting up the property address program
+2015-10-27 14:14:38,258 - root - INFO - Creating a new address
+2015-10-27 14:14:38,259 - root - INFO - Creating a new address
+2015-10-27 14:14:38,260 - root - ERROR - STATE exception
+2015-10-27 14:14:38,261 - root - INFO - Creating a new address
+2015-10-27 14:14:38,262 - root - ERROR - ZIPCODE exception
+2015-10-27 14:20:40,579 - root - INFO - Starting up the property address program
+2015-10-27 14:20:40,582 - root - INFO - Creating a new address
+2015-10-27 14:20:40,583 - root - INFO - Creating a new address
+2015-10-27 14:20:40,585 - root - INFO - Creating a new address
+2015-10-27 14:20:40,585 - root - ERROR - ZIPCODE exception
+2015-10-27 14:21:17,248 - root - INFO - Starting up the property address program
+2015-10-27 14:21:17,252 - root - INFO - Creating a new address
+2015-10-27 14:21:17,253 - root - INFO - Creating a new address
+2015-10-27 14:21:17,253 - root - ERROR - STATE exception
+2015-10-27 14:21:17,254 - root - INFO - Creating a new address
+2015-10-27 14:21:17,255 - root - ERROR - ZIPCODE exception
+2015-10-27 14:22:25,394 - root - INFO - Starting up the property address program
+2015-10-27 14:22:25,396 - root - INFO - Creating a new address
+2015-10-27 14:22:25,397 - root - INFO - Creating a new address
+2015-10-27 14:22:25,398 - root - ERROR - STATE exception
+2015-10-27 14:22:25,398 - root - INFO - Creating a new address
+2015-10-27 14:22:25,399 - root - ERROR - ZIPCODE exception

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;setupDemo.py&apos; to &apos;src&apos;&#x0D;&#x0A;- Original project: &apos;TestDrivenDevelopment&apos;&#x0D;&#x0A;- Destination element: &apos;src&apos;&#x0D;&#x0A;- Original element: &apos;setupDemo.py&apos;" description="Copy file" element1="src/setupDemo.py" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1439878141412" target="/TestDrivenDevelopment_Homework/src" units="0" version="1.0"/>
+</session>

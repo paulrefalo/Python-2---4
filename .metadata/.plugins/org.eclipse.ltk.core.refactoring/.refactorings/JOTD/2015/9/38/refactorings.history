@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JOTD/src/JOTD&apos; to &apos;JOTD.py&apos;" description="Rename resource &apos;JOTD&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/JOTD" name="JOTD.py" stamp="1442382976912" updateReferences="true"/>
+</session>

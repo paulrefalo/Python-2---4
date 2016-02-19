@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Python4_Homework06/src/dict.py&apos; to &apos;pyDict.py&apos;" description="Rename resource &apos;dict.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/dict.py" name="pyDict.py" stamp="1447282322575" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Python4_Homework06/src/test_dict.py&apos; to &apos;test_pyDict.py&apos;" description="Rename resource &apos;test_dict.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test_dict.py" name="test_pyDict.py" stamp="1447282341315" updateReferences="true"/>
+</session>

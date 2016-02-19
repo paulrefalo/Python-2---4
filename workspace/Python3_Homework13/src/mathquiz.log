@@ -1,0 +1,77 @@
+2015-10-27 02:54:26,438 - INFO - start_logging - Starting up the mathquiz program
+2015-10-27 02:54:26,439 - INFO - <module> - Starting mathquiz.py
+2015-10-27 02:54:26,440 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:26,441 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:26,442 - INFO - addNumbers - Call to addNumbers
+2015-10-27 02:54:29,623 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:29,625 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:29,626 - INFO - addNumbers - Call to addNumbers
+2015-10-27 02:54:31,473 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:31,479 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:31,480 - INFO - addNumbers - Call to addNumbers
+2015-10-27 02:54:33,849 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:33,851 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:33,852 - INFO - addNumbers - Call to addNumbers
+2015-10-27 02:54:35,688 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:35,690 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 02:54:35,691 - INFO - addNumbers - Call to addNumbers
+2015-10-27 02:54:37,250 - INFO - <module> - Script completed
+2015-10-27 13:08:17,481 - INFO - start_logging - Starting up the mathquiz program
+2015-10-27 13:08:17,481 - INFO - <module> - Starting mathquiz.py
+2015-10-27 13:08:17,481 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:17,481 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:17,481 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:08:21,163 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:21,163 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:21,163 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:08:25,470 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:25,470 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:25,470 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:08:27,499 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:27,514 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:27,514 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:08:29,372 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:29,372 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:08:29,372 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:08:31,822 - INFO - <module> - Script completed
+2015-10-27 13:45:52,905 - INFO - start_logging - Starting up the mathquiz program
+2015-10-27 13:45:52,905 - INFO - <module> - Starting mathquiz.py
+2015-10-27 13:45:52,905 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:45:52,905 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:45:52,905 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:49:44,220 - INFO - start_logging - Starting up the mathquiz program
+2015-10-27 13:49:44,220 - INFO - <module> - Starting mathquiz.py
+2015-10-27 13:49:44,220 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:44,220 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:44,236 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:49:47,684 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:47,684 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:47,684 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:49:49,681 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:49,681 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:49,682 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:49:51,773 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:51,773 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:51,773 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:49:54,395 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:54,395 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:49:54,395 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:49:55,971 - INFO - <module> - Script completed
+2015-10-27 13:52:12,503 - INFO - start_logging - Starting up the mathquiz program
+2015-10-27 13:52:12,503 - INFO - <module> - Starting mathquiz.py
+2015-10-27 13:52:12,503 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:12,503 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:12,503 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:52:15,873 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:15,873 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:15,873 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:52:17,840 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:17,840 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:17,840 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:52:20,149 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:20,149 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:20,149 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:52:21,804 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:21,804 - INFO - generateNumber - Generated a random integer from 1 to 10
+2015-10-27 13:52:21,804 - INFO - addNumbers - Call to addNumbers
+2015-10-27 13:52:23,817 - INFO - <module> - Script completed

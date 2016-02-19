@@ -1,0 +1,7 @@
+From: paul.refalo@gmail.com
+To: paul.refalo@gmail.com
+Subject: Handling Emails With Python
+
+
+
+This email was sent using Python's smtplib!

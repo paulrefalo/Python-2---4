@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;database.py&apos; to &apos;src&apos;&#x0D;&#x0A;- Original project: &apos;DB10_Homework&apos;&#x0D;&#x0A;- Destination element: &apos;src&apos;&#x0D;&#x0A;- Original element: &apos;database.py&apos;" description="Copy file" element1="src/database.py" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1442424470893" target="/JOTD/src" units="0" version="1.0"/>
+</session>

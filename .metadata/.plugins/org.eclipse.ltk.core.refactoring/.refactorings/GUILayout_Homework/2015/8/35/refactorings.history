@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;GUILayout_Homework/src/GUIgrid&apos; to &apos;GUIgrid.py&apos;" description="Rename resource &apos;GUIgrid&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/GUIgrid" name="GUIgrid.py" stamp="1440828022948" updateReferences="true"/>
+</session>

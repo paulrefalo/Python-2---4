@@ -1,0 +1,83 @@
+I'd say this is probably the most challenging of all the projects in Python2 and maybe in all four courses, 
+simply because of all the moving parts.
+
+You're definitely getting there and wrestling with this project gives lots of benefits.
+
+It's a goal, given comments about how namelist() uses forward slashes, to focus on 
+the output of the_zipfile.namelist() as our observed, i.e. the goal is it have namelist() 
+return one-parent paths for each file.  
+
+The function should really just take one argument, the target path, however the zip file (think
+of an egg) should be deposited with the testing code i.e. in the caller's directory, not at the far 
+end or in the parent of the target folder.  
+
+So one might open the zip file within the function *before* using os.chdir() to go anywhere.  
+Then remember to jump back home before returning, i.e. don't leave the caller in some new 
+place.  
+
+def zipDir(path):
+    home = os.getcwd()  # remember where we are 
+    zf = zipfile.ZipFile('planets.zip', 'w', zipfile.ZIP_DEFLATED) # zip file here too
+    # now it's OK to jump somewhere else
+
+then...
+
+    zf.close()
+    os.chdir(home)  # last thing before returning
+
+Here's some code you can use to test right in the same module:
+
+if __name__ == "__main__":
+    hotels = ["sheraton", "hilton", "marriot"]
+    thepath = "v:\\workspace\\hotels"  # all students have v:/workspace, only hotels is new
+    expected = ["hotels/"+hotel for hotel in hotels]
+    if not os.path.exists(thepath):
+        os.mkdir(thepath)
+    for n in hotels:  # effectively setUp()
+        f = open(os.path.join(thepath,n), 'w')
+        f.write("website: hits:")
+        f.close()
+    zipDir("v:/workspace/hotels")
+    zf = zipfile.ZipFile("planets.zip")
+    observed = zf.namelist()
+    print("namelist:", observed)
+    print("expected:", expected)
+    if set(expected) == set(observed):
+        print("The test passes")
+    else:
+        print("The test fails")
+    shutil.rmtree(thepath)  # effectively tearDown() 
+
+Other comments:
+
+    def testArchives(self):
+        expected = ["tmp/mercury", "tmp/venus", "tmp/earth"]
+        observed = myZip.zipDir(self.path, self.relative)
+        for file in observed:
+            os.path.split(file)  #  <---- this code has no effect as strings are immutable.  The result of doing this operation is not saved, so vanishes.
+        self.assertEqual(set(expected), set(observed), "There is a mismatch in the directory vs ZipFile.")
+
+Better version of this test:
+
+    def testArchives(self):
+        expected = ["tmp/mercury", "tmp/venus", "tmp/earth"]
+        myZip.zipDir(self.path)  # one argument
+        os.chdir(HOME)  # go home!  -- should not be necessary if zipDir did its work
+        zf = zipfile.ZipFile('planets.zip', 'r')  # crack the egg
+        zf.close()
+        observed = zf.namelist()  # the only legit source of observed, works even with zf closed.
+        self.assertEqual(set(expected), set(observed), "There is a mismatch in the directory vs ZipFile.")
+        
+Also:
+
+    for file in os.listdir(path):    # <--- consider using glob.glob with a pattern that returns parent/file elements if this isn't working
+        print("File: ", file)   # <--- the output from this diagnostic print needs to be... (see below)
+        if os.path.isfile:    # <---- takes an argument, does nothing as used here, except trigger __repr__ i.e. reports string name of function, always True
+            zf.write( os.path.join(path, file) )         
+    zf.close()
+
+... assuming testing code above, diagnostic print should give:
+
+File:  hotels\sheraton
+File:  hotels\hilton
+File:  hotels\marriot

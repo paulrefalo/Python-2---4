@@ -1,0 +1,141 @@
+2015-10-24 00:49:48,249 - root - INFO - Starting up the property address program
+2015-10-24 00:49:48,254 - root - INFO - Creating a new address
+2015-10-24 00:49:48,255 - root - INFO - Creating a new address
+2015-10-24 00:49:48,257 - root - ERROR - STATE exception
+2015-10-24 00:49:48,258 - root - INFO - Creating a new address
+2015-10-24 00:49:48,259 - root - ERROR - ZIPCODE exception
+2015-10-27 13:58:43,975 - root - INFO - Starting up the property address program
+2015-10-27 13:58:43,979 - root - INFO - Creating a new address
+2015-10-27 13:58:43,979 - root - INFO - Creating a new address
+2015-10-27 13:58:43,980 - root - ERROR - STATE exception
+2015-10-27 13:58:43,981 - root - INFO - Creating a new address
+2015-10-27 13:58:43,981 - root - ERROR - ZIPCODE exception
+2015-10-27 14:06:29,440 - root - INFO - Starting up the property address program
+2015-10-27 14:06:29,443 - root - INFO - Creating a new address
+2015-10-27 14:06:29,444 - root - INFO - Creating a new address
+2015-10-27 14:06:29,444 - root - ERROR - STATE exception
+2015-10-27 14:06:29,445 - root - INFO - Creating a new address
+2015-10-27 14:06:29,446 - root - ERROR - ZIPCODE exception
+2015-10-27 14:08:19,799 - root - INFO - Starting up the property address program
+2015-10-27 14:08:19,804 - root - INFO - Creating a new address
+2015-10-27 14:08:19,806 - root - INFO - Creating a new address
+2015-10-27 14:08:19,806 - root - ERROR - STATE exception
+2015-10-27 14:08:19,807 - root - INFO - Creating a new address
+2015-10-27 14:08:19,808 - root - ERROR - ZIPCODE exception
+2015-10-27 14:14:38,252 - root - INFO - Starting up the property address program
+2015-10-27 14:14:38,258 - root - INFO - Creating a new address
+2015-10-27 14:14:38,259 - root - INFO - Creating a new address
+2015-10-27 14:14:38,260 - root - ERROR - STATE exception
+2015-10-27 14:14:38,261 - root - INFO - Creating a new address
+2015-10-27 14:14:38,262 - root - ERROR - ZIPCODE exception
+2015-10-27 14:20:40,579 - root - INFO - Starting up the property address program
+2015-10-27 14:20:40,582 - root - INFO - Creating a new address
+2015-10-27 14:20:40,583 - root - INFO - Creating a new address
+2015-10-27 14:20:40,585 - root - INFO - Creating a new address
+2015-10-27 14:20:40,585 - root - ERROR - ZIPCODE exception
+2015-10-27 14:21:17,248 - root - INFO - Starting up the property address program
+2015-10-27 14:21:17,252 - root - INFO - Creating a new address
+2015-10-27 14:21:17,253 - root - INFO - Creating a new address
+2015-10-27 14:21:17,253 - root - ERROR - STATE exception
+2015-10-27 14:21:17,254 - root - INFO - Creating a new address
+2015-10-27 14:21:17,255 - root - ERROR - ZIPCODE exception
+2015-10-27 14:22:25,394 - root - INFO - Starting up the property address program
+2015-10-27 14:22:25,396 - root - INFO - Creating a new address
+2015-10-27 14:22:25,397 - root - INFO - Creating a new address
+2015-10-27 14:22:25,398 - root - ERROR - STATE exception
+2015-10-27 14:22:25,398 - root - INFO - Creating a new address
+2015-10-27 14:22:25,399 - root - ERROR - ZIPCODE exception
+2015-11-08 23:15:28,423 - root - INFO - Starting up the property address program
+2015-11-08 23:15:28,429 - root - INFO - Creating a new address
+2015-11-08 23:15:28,430 - root - INFO - Creating a new address
+2015-11-08 23:15:28,431 - root - ERROR - STATE exception
+2015-11-08 23:15:28,432 - root - INFO - Creating a new address
+2015-11-08 23:15:28,432 - root - ERROR - ZIPCODE exception
+2015-11-08 23:15:45,871 - root - INFO - Starting up the property address program
+2015-11-08 23:15:45,875 - root - INFO - Creating a new address
+2015-11-08 23:15:45,875 - root - INFO - Creating a new address
+2015-11-08 23:15:45,877 - root - INFO - Creating a new address
+2015-11-08 23:15:45,877 - root - ERROR - ZIPCODE exception
+2015-11-08 23:18:32,205 - root - INFO - Starting up the property address program
+2015-11-08 23:18:32,208 - root - INFO - Creating a new address
+2015-11-08 23:18:32,209 - root - INFO - Creating a new address
+2015-11-08 23:18:32,211 - root - INFO - Creating a new address
+2015-11-08 23:25:55,373 - root - INFO - Starting up the property address program
+2015-11-08 23:25:55,376 - root - INFO - Creating a new address
+2015-11-08 23:25:55,376 - root - INFO - Creating a new address
+2015-11-08 23:25:55,378 - root - INFO - Creating a new address
+2015-11-08 23:26:36,239 - root - INFO - Starting up the property address program
+2015-11-08 23:26:36,246 - root - INFO - Creating a new address
+2015-11-08 23:26:36,247 - root - INFO - Creating a new address
+2015-11-08 23:26:36,249 - root - INFO - Creating a new address
+2015-11-08 23:27:01,886 - root - INFO - Starting up the property address program
+2015-11-08 23:27:01,892 - root - INFO - Creating a new address
+2015-11-08 23:27:01,893 - root - INFO - Creating a new address
+2015-11-08 23:27:01,894 - root - ERROR - STATE exception
+2015-11-08 23:27:01,895 - root - INFO - Creating a new address
+2015-11-08 23:28:32,605 - root - INFO - Starting up the property address program
+2015-11-08 23:28:32,608 - root - INFO - Creating a new address
+2015-11-08 23:28:32,609 - root - INFO - Creating a new address
+2015-11-08 23:28:32,609 - root - ERROR - STATE exception
+2015-11-08 23:28:32,610 - root - INFO - Creating a new address
+2015-11-08 23:28:32,610 - root - ERROR - ZIPCODE exception
+2015-11-08 23:29:00,660 - root - INFO - Starting up the property address program
+2015-11-08 23:29:00,664 - root - INFO - Creating a new address
+2015-11-08 23:29:00,665 - root - INFO - Creating a new address
+2015-11-08 23:29:00,666 - root - ERROR - STATE exception
+2015-11-08 23:29:00,666 - root - ERROR - STATE exception
+2015-11-08 23:29:00,669 - root - INFO - Creating a new address
+2015-11-08 23:29:00,670 - root - ERROR - ZIPCODE exception
+2015-11-08 23:29:16,574 - root - INFO - Starting up the property address program
+2015-11-08 23:29:16,577 - root - INFO - Creating a new address
+2015-11-08 23:29:16,578 - root - INFO - Creating a new address
+2015-11-08 23:29:16,579 - root - ERROR - STATE exception
+2015-11-08 23:29:16,580 - root - ERROR - STATE exception
+2015-11-08 23:29:16,582 - root - INFO - Creating a new address
+2015-11-08 23:29:16,583 - root - ERROR - ZIPCODE exception
+2015-11-08 23:29:55,098 - root - INFO - Starting up the property address program
+2015-11-08 23:29:55,102 - root - INFO - Creating a new address
+2015-11-08 23:29:55,102 - root - INFO - Creating a new address
+2015-11-08 23:29:55,103 - root - ERROR - STATE exception
+2015-11-08 23:29:55,104 - root - INFO - Creating a new address
+2015-11-08 23:29:55,105 - root - ERROR - ZIPCODE exception
+2015-11-08 23:31:06,875 - root - INFO - Starting up the property address program
+2015-11-08 23:31:06,879 - root - INFO - Creating a new address
+2015-11-08 23:31:06,879 - root - INFO - Creating a new address
+2015-11-08 23:31:06,880 - root - ERROR - STATE exception
+2015-11-08 23:31:06,881 - root - INFO - Creating a new address
+2015-11-08 23:32:09,368 - root - INFO - Starting up the property address program
+2015-11-08 23:32:09,372 - root - INFO - Creating a new address
+2015-11-08 23:32:09,373 - root - INFO - Creating a new address
+2015-11-08 23:32:09,374 - root - ERROR - STATE exception
+2015-11-08 23:32:09,374 - root - INFO - Creating a new address
+2015-11-08 23:33:50,977 - root - INFO - Starting up the property address program
+2015-11-08 23:33:50,981 - root - INFO - Creating a new address
+2015-11-08 23:33:50,982 - root - INFO - Creating a new address
+2015-11-08 23:33:50,982 - root - ERROR - STATE exception
+2015-11-08 23:33:50,983 - root - INFO - Creating a new address
+2015-11-08 23:34:22,497 - root - INFO - Starting up the property address program
+2015-11-08 23:34:22,501 - root - INFO - Creating a new address
+2015-11-08 23:34:22,511 - root - INFO - Creating a new address
+2015-11-08 23:34:22,511 - root - ERROR - STATE exception
+2015-11-08 23:34:22,512 - root - INFO - Creating a new address
+2015-11-08 23:34:22,513 - root - ERROR - ZIPCODE exception
+2015-11-08 23:34:59,105 - root - INFO - Starting up the property address program
+2015-11-08 23:34:59,112 - root - INFO - Creating a new address
+2015-11-08 23:34:59,113 - root - INFO - Creating a new address
+2015-11-08 23:34:59,114 - root - ERROR - STATE exception
+2015-11-08 23:34:59,115 - root - ERROR - STATE exception
+2015-11-08 23:34:59,118 - root - INFO - Creating a new address
+2015-11-08 23:34:59,119 - root - ERROR - ZIPCODE exception
+2015-11-08 23:35:14,644 - root - INFO - Starting up the property address program
+2015-11-08 23:35:14,648 - root - INFO - Creating a new address
+2015-11-08 23:35:14,649 - root - INFO - Creating a new address
+2015-11-08 23:35:14,650 - root - ERROR - STATE exception
+2015-11-08 23:35:14,650 - root - INFO - Creating a new address
+2015-11-08 23:35:14,651 - root - ERROR - ZIPCODE exception
+2015-11-08 23:35:47,437 - root - INFO - Starting up the property address program
+2015-11-08 23:35:47,441 - root - INFO - Creating a new address
+2015-11-08 23:35:47,442 - root - INFO - Creating a new address
+2015-11-08 23:35:47,443 - root - ERROR - STATE exception
+2015-11-08 23:35:47,443 - root - INFO - Creating a new address
+2015-11-08 23:35:47,444 - root - ERROR - ZIPCODE exception

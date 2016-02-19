@@ -1,0 +1,17 @@
+>>> import sys; print('%s %s' % (sys.executable or sys.platform, sys.version))
+C:\Python\python.exe 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:45:13) [MSC v.1600 64 bit (AMD64)]
+>>> from pubandsub import Publisher
+>>> publisher = Publisher()
+>>> publisher.unsubscribe(None)
+Traceback (most recent call last):
+  File "<console>", line 1, in <module>
+  File "V:\workspace\Python4_Lesson04\src\pubandsub.py", line 10, in unsubscribe
+    raise ValueError("Can only unsubscribe subscribers")
+ValueError: Can only unsubscribe subscribers
+>>> publisher.subscribe(None)
+>>> publisher.subscribe(None)
+Traceback (most recent call last):
+  File "<console>", line 1, in <module>
+  File "V:\workspace\Python4_Lesson04\src\pubandsub.py", line 6, in subscribe
+    raise ValueError("Multiple subscriptions are not allowed")
+ValueError: Multiple subscriptions are not allowed
